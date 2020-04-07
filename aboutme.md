@@ -4,5 +4,11 @@ title: About me
 subtitle: 
 ---
 
-I am a first year PhD candidate and research fellow doing NLP in a Computer Science Department, coming from a Linguistics background. My supervisor is prof. Roberto Navigli. My main topic of interest is neural approaches to word-level semantics, supervised (Word Sense Disambiguation) or unsupervised (language model pretraining).
+2nd-year PhD student @[SapienzaNLP](nlp.uniroma1.it) (supervisor prof. Roberto Navigli). 
+
+Trying to teach human language(s) to machines, one failure at a time. 
+In my free time I like to pretend that I have free time.
+
+Topics: NLP, Lexical Semantics, Semantic Parsing
+
 
