@@ -5,10 +5,10 @@ subtitle:
 ---
 
 ### 2020
- - Bevilacqua M., Navigli R. - *Breaking the (80%) Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information*, Proceedings of ACL (long paper), 2020. [pdf TBA] [repo TBA]
-- Calabrese A., Bevilacqua M., Navigli R. - Fatality *Killed the* Cat: *a New Dataset for Multimodal Semantic Learning on Non-Concrete Concepts*, Proceedings of ACL (short paper), 2020. [pdf TBA] [repo TBA]
-- Lacerra C., Bevilacqua M., Pasini T., Navigli R. -  *CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation*, Proceedings of AAAI, 2020. [[pdf](/pdf/2020-CSI-LacerraEtAl-AAAI.pdf)] [repo TBA!]
+ - Bevilacqua M., Navigli R. - **Breaking the (80%) Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information**, Proceedings of ACL (long paper), 2020. [pdf TBA] [repo TBA]
+- Calabrese A., Bevilacqua M., Navigli R. - **Fatality Killed the Cat: a New Dataset for Multimodal Semantic Learning on Non-Concrete Concepts**, Proceedings of ACL (short paper), 2020. [pdf TBA] [repo TBA]
+- Lacerra C., Bevilacqua M., Pasini T., Navigli R. -  **CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation**, Proceedings of AAAI, 2020. [[pdf](/pdf/2020-CSI-LacerraEtAl-AAAI.pdf)] [repo TBA!]
 
 ### 2019
-- Bevilacqua M., Navigli R. - *Quasi Bidirectional Encoder Representations from Transformers for Word Sense Disambiguation*, Proceedings of RANLP (long paper), 2019. [[pdf](/pdf/2020-QBERT-BevilacquaNavigli-RANLP.pdf)] [[repo](https://github.com/mbevila/qbert)] [[dblp](https://dblp.uni-trier.de/rec/bibtex/conf/ranlp/BevilacquaN19)]
+- Bevilacqua M., Navigli R. - **Quasi Bidirectional Encoder Representations from Transformers for Word Sense Disambiguation**, Proceedings of RANLP (long paper), 2019. [[pdf](/pdf/2020-QBERT-BevilacquaNavigli-RANLP.pdf)] [[repo](https://github.com/mbevila/qbert)] [[dblp](https://dblp.uni-trier.de/rec/bibtex/conf/ranlp/BevilacquaN19)]
 
