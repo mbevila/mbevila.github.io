@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 
-subtitle: 
+title: Michele Bevilacqua 
+subtitle: Natural Language Processing | Machine Learning
 ---
 
 # About me
 
-2nd-year PhD student @[SapienzaNLP](http://nlp.uniroma1.it) (supervisor prof. Roberto Navigli). 
+3nd-year PhD student @[SapienzaNLP](http://nlp.uniroma1.it) (supervisor prof. Roberto Navigli). 
 
 Trying to teach human language(s) to machines, one failure at a time. 
 In my free time I like to pretend that I have free time.
@@ -14,6 +14,9 @@ In my free time I like to pretend that I have free time.
 Topics: NLP, Lexical Semantics, Semantic Parsing
 
 # Publications
+
+### 2021
+- Bevilacqua M., Blloshmi M., Navigli R. - **One SPRING to Rule Them Both:Symmetric AMR Semantic Parsing and Generation without a Complex Pipeline**, Proceedings of AAAI, 2021. [[paper](https://github.com/SapienzaNLP/spring/raw/main/docs/preprint.pdf)] [[repo](https://github.com/SapienzaNLP/spring)]
 
 ### 2020
 - Bevilacqua M., Maru M., Navigli R. - **Generationary or: “How We Went beyond Sense Inventories and Learned to Gloss”**, Proceedings of EMNLP, 2020. [[paper](https://sapienzanlp.github.io/generationary-web/res/EMNLP2020-Generationary.pdf)] [[website](http://generationary.org/)]
