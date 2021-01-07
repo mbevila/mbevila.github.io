@@ -11,7 +11,7 @@ subtitle: Natural Language Processing | Machine Learning
 Trying to teach human language(s) to machines, one failure at a time. 
 In my free time I like to pretend that I have free time.
 
-Topics: NLP, Lexical Semantics, Semantic Parsing
+Interested in: Natural Language Processing (NLP), Natural Language Generation, Lexical Semantics, Word Sense Disambiguation, Semantic Parsing
 
 # Publications
 
