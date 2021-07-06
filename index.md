@@ -18,7 +18,7 @@ Interested in: Natural Language Processing (NLP), Natural Language Generation, L
 ### 2021
 - Bevilacqua M., Pasini T., Raganato A., Navigli R. - **Recent Trends in Word Sense Disambiguation: A Survey**, Proceedings of IJCAI, 2021.
 - Navigli R., Bevilacqua M., Conia S., Montagnini D., Cecconi F. - **Ten Years of BabelNet: A Survey**, Proceedings of IJCAI, 2021.
-- Calabrese A., Bevilacqua M., Ross B., Tripodi R., Navigli R. - **AAA: Fair Evaluation for Abuse Detection Systems Wanted**, Proceedings of WebSci, 2021. [[paper][https://dl.acm.org/doi/10.1145/3447535.3462484]] [[repo][https://github.com/Ago3/Adversifier]]
+- Calabrese A., Bevilacqua M., Ross B., Tripodi R., Navigli R. - **AAA: Fair Evaluation for Abuse Detection Systems Wanted**, Proceedings of WebSci, 2021. [[paper](https://dl.acm.org/doi/10.1145/3447535.3462484)] [[repo](https://github.com/Ago3/Adversifier)]
 - Bevilacqua M., Blloshmi M., Navigli R. - **One SPRING to Rule Them Both:Symmetric AMR Semantic Parsing and Generation without a Complex Pipeline**, Proceedings of AAAI, 2021. [[paper](https://github.com/SapienzaNLP/spring/raw/main/docs/preprint.pdf)] [[repo](https://github.com/SapienzaNLP/spring)]
 
 ### 2020
